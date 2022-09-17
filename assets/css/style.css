@@ -1,0 +1,17 @@
+/*Ocultando los componentes finamicos */
+#tabla-conjugacion, #significado, #oraciones, #audio-player{
+    display: none;
+}
+
+
+/* Algunos arreglos en el CSS de la pagina Diccionario */
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    #diccionario {
+        margin-top: 3%;
+    }
+} 
+.contact-us .page-header {
+    align-items: unset !important;
+}
+
